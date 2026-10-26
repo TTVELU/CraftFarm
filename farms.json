@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "name": "Automatic cooked chicken farm",
+    "phase": "Early game",
+    "output": "Cooked chicken, feathers",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+1.21+automatic+cooked+chicken+farm+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 2,
+    "name": "Cactus farm",
+    "phase": "Early game",
+    "output": "Cactus, green dye",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+cactus+farm+1.21+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 3,
+    "name": "Sugarcane farm",
+    "phase": "Early game",
+    "output": "Sugarcane, paper",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+sugarcane+farm+1.21+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 4,
+    "name": "Bamboo farm",
+    "phase": "Early game",
+    "output": "Bamboo",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+bamboo+farm+1.21+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 5,
+    "name": "Automatic wool farm",
+    "phase": "Early game",
+    "output": "Wool",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+wool+farm+all+16+colors+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 6,
+    "name": "Egg farm",
+    "phase": "Early game",
+    "output": "Eggs",
+    "difficulty": "Very easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+egg+farm+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 7,
+    "name": "Cobblestone generator",
+    "phase": "Early game",
+    "output": "Cobblestone",
+    "difficulty": "Easy–moderate",
+    "automation": "Autoclicker or TNT-based design may be required",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+fully+automatic+cobblestone+farm+TNT+duper",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 8,
+    "name": "Villager breeder",
+    "phase": "Foundations",
+    "output": "Villagers",
+    "difficulty": "Moderate",
+    "automation": "Automatic after setup; requires correct conditions",
+    "tutorial": "https://www.youtube.com/results?search_query=LogicalGeekBoy+villager+breeder+Java",
+    "creator": "LogicalGeekBoy",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 9,
+    "name": "Iron farm",
+    "phase": "Foundations",
+    "output": "Iron, poppies",
+    "difficulty": "Moderate",
+    "automation": "AFK/automatic; spawn and player-distance rules apply",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+1.21+automatic+iron+farm+tutorial",
+    "creator": "ianxofour / LogicalGeekBoy",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 10,
+    "name": "Carrot/potato farm",
+    "phase": "Foundations",
+    "output": "Carrots, potatoes",
+    "difficulty": "Easy–moderate",
+    "automation": "Automatic villager harvesting design",
+    "tutorial": "https://www.youtube.com/results?search_query=LogicalGeekBoy+automatic+carrot+potato+farm+Java",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 11,
+    "name": "Wheat/beetroot farm",
+    "phase": "Foundations",
+    "output": "Wheat, beetroot, seeds",
+    "difficulty": "Moderate",
+    "automation": "Automatic villager harvesting design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+wheat+beetroot+villager+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 12,
+    "name": "Melon/pumpkin farm",
+    "phase": "Foundations",
+    "output": "Melons, pumpkins",
+    "difficulty": "Easy",
+    "automation": "Fully automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+melon+pumpkin+farm+1.21",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 13,
+    "name": "Automatic tree farm",
+    "phase": "Foundations",
+    "output": "Logs, saplings",
+    "difficulty": "Hard",
+    "automation": "Some designs need player input or TNT; verify design",
+    "tutorial": "https://www.youtube.com/results?search_query=ianxofour+automatic+tree+farm+Java",
+    "creator": "ianxofour / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 14,
+    "name": "Honey/honeycomb farm",
+    "phase": "Foundations",
+    "output": "Honey bottles, honeycomb",
+    "difficulty": "Moderate",
+    "automation": "Fully automatic with dispensers",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+honey+honeycomb+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 15,
+    "name": "Automatic smelter",
+    "phase": "Foundations",
+    "output": "Smelted items",
+    "difficulty": "Moderate",
+    "automation": "Automatic processing; requires fuel and input",
+    "tutorial": "https://www.youtube.com/results?search_query=ilmango+super+smelter+Minecraft",
+    "creator": "ilmango / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 16,
+    "name": "General hostile mob farm",
+    "phase": "Foundations",
+    "output": "Bones, string, rotten flesh, arrows",
+    "difficulty": "Moderate",
+    "automation": "AFK; player position and spawning rules matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+mob+farm+1.21",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 17,
+    "name": "Creeper farm",
+    "phase": "Foundations",
+    "output": "Gunpowder",
+    "difficulty": "Moderate",
+    "automation": "AFK; player position and spawning rules matter",
+    "tutorial": "https://www.youtube.com/results?search_query=ianxofour+creeper+farm+Java",
+    "creator": "ianxofour / Rays Works",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 18,
+    "name": "Cooked-food farm expansion",
+    "phase": "Foundations",
+    "output": "Cooked food",
+    "difficulty": "Easy–moderate",
+    "automation": "Depends on chosen design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+cooked+food+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 19,
+    "name": "Slime farm",
+    "phase": "Mid game",
+    "output": "Slimeballs",
+    "difficulty": "Hard",
+    "automation": "AFK; chunk/spawn conditions matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+slime+farm+1.21",
+    "creator": "ianxofour / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 20,
+    "name": "Witch farm",
+    "phase": "Mid game",
+    "output": "Redstone, glowstone, bottles, sticks",
+    "difficulty": "Hard",
+    "automation": "AFK; location and spawning rules matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Rays+Works+witch+farm+Java",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 21,
+    "name": "Guardian farm",
+    "phase": "Mid game",
+    "output": "Prismarine, fish",
+    "difficulty": "Hard",
+    "automation": "AFK; design-specific killing mechanics",
+    "tutorial": "https://www.youtube.com/results?search_query=ianxofour+guardian+farm+Java",
+    "creator": "ianxofour / ilmango",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 22,
+    "name": "Enderman farm",
+    "phase": "Mid game",
+    "output": "Ender pearls, XP",
+    "difficulty": "Moderate",
+    "automation": "AFK; XP collection may require player interaction",
+    "tutorial": "https://www.youtube.com/results?search_query=Gnembon+Enderman+farm+Java",
+    "creator": "Gnembon / ianxofour",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 23,
+    "name": "Blaze farm",
+    "phase": "Mid game",
+    "output": "Blaze rods",
+    "difficulty": "Moderate–hard",
+    "automation": "AFK; XP may require player interaction",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+blaze+farm+1.21",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 24,
+    "name": "Gold farm",
+    "phase": "Mid game",
+    "output": "Gold, XP",
+    "difficulty": "Hard",
+    "automation": "Some designs require player kill credit",
+    "tutorial": "https://www.youtube.com/results?search_query=ianxofour+gold+farm+Java",
+    "creator": "ianxofour / ilmango",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 25,
+    "name": "Piglin bartering farm",
+    "phase": "Mid game",
+    "output": "Quartz, gravel, obsidian, pearls and more",
+    "difficulty": "Moderate",
+    "automation": "Automatic with gold input and item collection",
+    "tutorial": "https://www.youtube.com/results?search_query=LogicalGeekBoy+piglin+bartering+farm",
+    "creator": "ianxofour / LogicalGeekBoy",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 26,
+    "name": "Magma cube farm",
+    "phase": "Mid game",
+    "output": "Magma cream",
+    "difficulty": "Hard",
+    "automation": "AFK; spawning conditions matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+magma+cube+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 27,
+    "name": "Hoglin farm",
+    "phase": "Mid game",
+    "output": "Cooked pork, leather",
+    "difficulty": "Moderate–hard",
+    "automation": "Automatic; design/version dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+hoglin+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 28,
+    "name": "Wither skeleton farm",
+    "phase": "Mid game",
+    "output": "Wither skulls, bones, coal",
+    "difficulty": "Hard",
+    "automation": "AFK; fortress spawning conditions matter",
+    "tutorial": "https://www.youtube.com/results?search_query=ianxofour+wither+skeleton+farm",
+    "creator": "ianxofour / Rays Works",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 29,
+    "name": "Ghast farm",
+    "phase": "Mid game",
+    "output": "Ghast tears, gunpowder",
+    "difficulty": "Hard",
+    "automation": "AFK; design/version dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+ghast+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 30,
+    "name": "Kelp farm",
+    "phase": "Mid game",
+    "output": "Kelp, dried-kelp fuel",
+    "difficulty": "Moderate",
+    "automation": "Fully automatic collection",
+    "tutorial": "https://www.youtube.com/results?search_query=ilmango+automatic+kelp+farm",
+    "creator": "ilmango / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 31,
+    "name": "Moss/bone-meal farm",
+    "phase": "Mid game",
+    "output": "Moss, bone meal, assorted plants",
+    "difficulty": "Moderate",
+    "automation": "Fully automatic with collection loop",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+moss+bone+meal+farm",
+    "creator": "Rays Works / ilmango",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 32,
+    "name": "Flower farm",
+    "phase": "Mid game",
+    "output": "Flowers, dyes",
+    "difficulty": "Moderate",
+    "automation": "Bone-meal and biome dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+flower+farm+bone+meal",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 33,
+    "name": "Cocoa farm",
+    "phase": "Mid game",
+    "output": "Cocoa beans",
+    "difficulty": "Moderate",
+    "automation": "Automatic designs vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+cocoa+bean+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 34,
+    "name": "Nether wart farm",
+    "phase": "Mid game",
+    "output": "Nether wart",
+    "difficulty": "Moderate",
+    "automation": "Harvesting can be automated; replanting limitations vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+nether+wart+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 35,
+    "name": "Chorus fruit farm",
+    "phase": "Mid game",
+    "output": "Chorus fruit, popped chorus fruit",
+    "difficulty": "Hard",
+    "automation": "Automatic designs are version/mechanic dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+chorus+fruit+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 36,
+    "name": "Dripstone farm",
+    "phase": "Mid game",
+    "output": "Pointed dripstone",
+    "difficulty": "Easy–moderate",
+    "automation": "Fully automatic collection",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+dripstone+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 37,
+    "name": "Lava farm",
+    "phase": "Mid game",
+    "output": "Renewable lava",
+    "difficulty": "Easy",
+    "automation": "Dripstone cauldron collection; slow but automatic",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+lava+farm+dripstone",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 38,
+    "name": "Snow farm",
+    "phase": "Mid game",
+    "output": "Snowballs",
+    "difficulty": "Moderate",
+    "automation": "May require a player to create snow; verify design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+snow+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 39,
+    "name": "Ice farm",
+    "phase": "Mid game",
+    "output": "Ice",
+    "difficulty": "Moderate",
+    "automation": "Some designs require player mining; choose automatic collection/breaking design",
+    "tutorial": "https://www.youtube.com/results?search_query=ilmango+automatic+ice+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 40,
+    "name": "Basalt farm",
+    "phase": "Mid game",
+    "output": "Basalt",
+    "difficulty": "Easy–moderate",
+    "automation": "Generator; collection/breaking may need automation",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+basalt+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 41,
+    "name": "Shulker farm",
+    "phase": "Rare farms",
+    "output": "Shulker shells",
+    "difficulty": "Very hard",
+    "automation": "AFK designs exist; version-specific",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+shulker+farm+1.21",
+    "creator": "Rays Works / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 42,
+    "name": "Raid farm",
+    "phase": "Rare farms",
+    "output": "Totems, emeralds, raid drops",
+    "difficulty": "Very hard",
+    "automation": "Must verify Java-version-specific player kill/drop mechanics",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+raid+farm+1.21+automatic",
+    "creator": "Java technical farm designers",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 43,
+    "name": "Trident farm",
+    "phase": "Rare farms",
+    "output": "Tridents, copper and drowned drops",
+    "difficulty": "Hard",
+    "automation": "Tridents require compatible player-kill mechanics; verify design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+drowned+trident+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 44,
+    "name": "Turtle scute farm",
+    "phase": "Rare farms",
+    "output": "Scutes",
+    "difficulty": "Moderate",
+    "automation": "Automated breeding/collection designs vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+turtle+scute+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 45,
+    "name": "Froglight farm",
+    "phase": "Rare farms",
+    "output": "Three froglight colours",
+    "difficulty": "Hard",
+    "automation": "AFK with suitable frog/magma-cube setup",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+froglight+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 46,
+    "name": "Glow squid farm",
+    "phase": "Rare farms",
+    "output": "Glow ink sacs",
+    "difficulty": "Hard",
+    "automation": "AFK; water/spawn conditions matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+glow+squid+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 47,
+    "name": "Squid farm",
+    "phase": "Rare farms",
+    "output": "Ink sacs",
+    "difficulty": "Hard",
+    "automation": "AFK; water/spawn conditions matter",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+squid+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 48,
+    "name": "Sculk farm",
+    "phase": "Rare farms",
+    "output": "Sculk, XP",
+    "difficulty": "Hard",
+    "automation": "AFK; XP collection may need player interaction",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+sculk+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 49,
+    "name": "Wither rose farm",
+    "phase": "Rare farms",
+    "output": "Wither roses",
+    "difficulty": "Very hard",
+    "automation": "AFK collection; wither setup is dangerous",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+wither+rose+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 50,
+    "name": "Amethyst collection system",
+    "phase": "Rare farms",
+    "output": "Amethyst shards",
+    "difficulty": "Moderate",
+    "automation": "Collection can be automated; budding amethyst cannot be farmed/replaced",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+amethyst+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 51,
+    "name": "Sea pickle farm",
+    "phase": "Rare farms",
+    "output": "Sea pickles",
+    "difficulty": "Moderate",
+    "automation": "Bone-meal setup and collection depend on design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+sea+pickle+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 52,
+    "name": "Sweet berry farm",
+    "phase": "Rare farms",
+    "output": "Sweet berries",
+    "difficulty": "Moderate",
+    "automation": "Fox-based collection designs exist",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+sweet+berry+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 53,
+    "name": "Glow berry farm",
+    "phase": "Rare farms",
+    "output": "Glow berries",
+    "difficulty": "Moderate",
+    "automation": "Automatic growth/collection designs vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+glow+berry+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 54,
+    "name": "Dripleaf farm",
+    "phase": "Rare farms",
+    "output": "Big and small dripleaf",
+    "difficulty": "Moderate",
+    "automation": "Bone-meal/collection mechanics vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+dripleaf+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 55,
+    "name": "Mushroom farm",
+    "phase": "Rare farms",
+    "output": "Mushrooms",
+    "difficulty": "Moderate",
+    "automation": "Automatic designs are light/space dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+mushroom+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 56,
+    "name": "Apple farm",
+    "phase": "Rare farms",
+    "output": "Apples, saplings",
+    "difficulty": "Moderate",
+    "automation": "Tree leaf drops; collection automatic if paired with tree farm",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+apple+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 57,
+    "name": "Vine farm",
+    "phase": "Rare farms",
+    "output": "Vines",
+    "difficulty": "Moderate",
+    "automation": "Automatic growth/harvest designs vary",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+vine+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 58,
+    "name": "Lily-pad farm",
+    "phase": "Rare farms",
+    "output": "Lily pads",
+    "difficulty": "Hard",
+    "automation": "Automatic designs are niche/version dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+lily+pad+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 59,
+    "name": "Rabbit farm",
+    "phase": "Rare farms",
+    "output": "Rabbit hide, meat, feet",
+    "difficulty": "Moderate–hard",
+    "automation": "Automatic breeding/killing/collection design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+rabbit+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 60,
+    "name": "Phantom farm",
+    "phase": "Rare farms",
+    "output": "Phantom membranes",
+    "difficulty": "Moderate",
+    "automation": "Requires player presence and insomnia mechanics; AFK design-dependent",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+phantom+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 61,
+    "name": "High-output iron farm",
+    "phase": "Endgame",
+    "output": "Bulk iron, poppies",
+    "difficulty": "Hard",
+    "automation": "AFK/automatic; verify rates and version",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+technical+high+efficiency+iron+farm",
+    "creator": "ianxofour / LogicalGeekBoy",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 62,
+    "name": "Multi-module gold farm",
+    "phase": "Endgame",
+    "output": "Bulk gold, XP",
+    "difficulty": "Very hard",
+    "automation": "Some designs require player kill credit",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+technical+high+efficiency+gold+farm",
+    "creator": "ianxofour / ilmango",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 63,
+    "name": "Wither-killing farm",
+    "phase": "Endgame",
+    "output": "Nether stars",
+    "difficulty": "Very hard",
+    "automation": "Automated killing/collection; dangerous build",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+wither+killer+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 64,
+    "name": "World eater",
+    "phase": "Endgame",
+    "output": "Clears huge areas for a perimeter",
+    "difficulty": "Extreme",
+    "automation": "Machine runs after setup; needs substantial construction",
+    "tutorial": "https://www.youtube.com/results?search_query=SciCraft+world+eater+Minecraft+Java",
+    "creator": "SciCraft technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 65,
+    "name": "Perimeter slime farm",
+    "phase": "Endgame",
+    "output": "Large-scale slimeballs",
+    "difficulty": "Extreme",
+    "automation": "AFK; requires perimeter and correct player positioning",
+    "tutorial": "https://www.youtube.com/results?search_query=SciCraft+perimeter+slime+farm",
+    "creator": "ianxofour / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 66,
+    "name": "Large-scale tree farm",
+    "phase": "Endgame",
+    "output": "Bulk logs and wood",
+    "difficulty": "Very hard",
+    "automation": "TNT/player input varies by design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+technical+automatic+tree+farm+TNT+duper",
+    "creator": "ianxofour / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 67,
+    "name": "Stone/cobblestone farm",
+    "phase": "Endgame",
+    "output": "Bulk stone/cobblestone",
+    "difficulty": "Hard",
+    "automation": "Select a design with automatic block breaking; some need autoclicker",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+stone+farm+TNT+duper",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 68,
+    "name": "Concrete factory",
+    "phase": "Endgame",
+    "output": "Concrete blocks",
+    "difficulty": "Hard",
+    "automation": "Conversion and collection can be automated; block breaking varies",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+concrete+factory",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 69,
+    "name": "Bulk storage warehouse",
+    "phase": "Endgame",
+    "output": "Sorted item storage",
+    "difficulty": "Hard",
+    "automation": "Automatic once supplied; requires overflow planning",
+    "tutorial": "https://www.youtube.com/results?search_query=ImpulseSV+Minecraft+automatic+storage+system",
+    "creator": "ImpulseSV / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 70,
+    "name": "Shulker-box loader/unloader",
+    "phase": "Endgame",
+    "output": "Automated bulk item handling",
+    "difficulty": "Hard",
+    "automation": "Automatic with correct input/output wiring",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+shulker+box+loader+unloader",
+    "creator": "Rays Works / technical community",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 71,
+    "name": "Automatic crafting factory",
+    "phase": "Endgame",
+    "output": "Crafted blocks/items",
+    "difficulty": "Hard",
+    "automation": "Crafter/redstone automation; needs item input",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+crafting+factory+crafter",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 72,
+    "name": "Potion-brewing array",
+    "phase": "Endgame",
+    "output": "Potions",
+    "difficulty": "Hard",
+    "automation": "Some ingredients/input steps need external automation",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+automatic+potion+brewer+redstone",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 73,
+    "name": "Item transportation network",
+    "phase": "Endgame",
+    "output": "Moves items between farms/storage",
+    "difficulty": "Hard",
+    "automation": "Automatic after setup",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+technical+automatic+item+transport+system",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 74,
+    "name": "Mob switch",
+    "phase": "Endgame",
+    "output": "Controls selected mob spawning",
+    "difficulty": "Extreme",
+    "automation": "Not a resource farm; needs design-specific maintenance and loaded chunks",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+technical+mob+switch+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 75,
+    "name": "Chunk-loading network",
+    "phase": "Endgame",
+    "output": "Keeps supported machinery loaded where possible",
+    "difficulty": "Hard",
+    "automation": "Does not bypass all player-distance/spawning rules",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+chunk+loader+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Version-dependent — check the tutorial description; target Java 26.3 unless the creator specifies otherwise.",
+    "materials": [
+      "Building blocks (5+ stacks)",
+      "Hoppers (16+)",
+      "Chests/barrels (16+)",
+      "Redstone dust, repeaters and comparators",
+      "Design-specific components; use a schematic"
+    ],
+    "notes": "Check that the build runs unattended or is explicitly AFK/autoclicker-compatible before committing resources.",
+    "kind": "farm"
+  },
+  {
+    "id": 76,
+    "name": "Poplar tree farm",
+    "phase": "Recent content",
+    "output": "Poplar logs, saplings, red/orange/yellow leaves",
+    "difficulty": "Hard",
+    "automation": "Automatic tree-farm designs may need TNT or player input; verify the exact design",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.3+automatic+poplar+tree+farm",
+    "creator": "ianxofour / technical community",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Test world / creative-mode prototype",
+      "New-content blocks/entities (verify availability)",
+      "Design-specific materials — not yet verified"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 77,
+    "name": "Shelf mushroom collection / propagation setup",
+    "phase": "Recent content",
+    "output": "Shelf mushrooms",
+    "difficulty": "Experimental",
+    "automation": "No verified fully automatic farm confirmed; treat as a collection/build experiment until a working design is verified",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.3+shelf+mushroom+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Building blocks (1–3 stacks)",
+      "Hoppers (4–8)",
+      "Chests (2–4)",
+      "Observer/piston/dispenser components (design-dependent)",
+      "Seeds/saplings or starter plant"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 78,
+    "name": "Sulfur cube block-interaction experiment",
+    "phase": "Recent content",
+    "output": "Block movement / contraption mechanics",
+    "difficulty": "Experimental",
+    "automation": "Not a confirmed resource farm; investigate sulfur-cube mechanics and test in a copy of the world first",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.2+sulfur+cube+mechanics+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Test world / creative-mode prototype",
+      "New-content blocks/entities (verify availability)",
+      "Design-specific materials — not yet verified"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 79,
+    "name": "Sulfur and cinnabar resource project",
+    "phase": "Recent content",
+    "output": "Sulfur and cinnabar blocks",
+    "difficulty": "Experimental",
+    "automation": "No conventional renewable automatic farm confirmed; do not count as a farm unless a verified renewable design exists",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.2+sulfur+cinnabar+farm",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Test world / creative-mode prototype",
+      "New-content blocks/entities (verify availability)",
+      "Design-specific materials — not yet verified"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 80,
+    "name": "Copper golem item-sorting system",
+    "phase": "Recent content",
+    "output": "Automatic item sorting",
+    "difficulty": "Moderate",
+    "automation": "Automatic sorting utility; not a resource-producing farm. Copper golems interact with copper chests and regular chests",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.3+copper+golem+automatic+sorting+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Test world / creative-mode prototype",
+      "New-content blocks/entities (verify availability)",
+      "Design-specific materials — not yet verified"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 81,
+    "name": "Happy ghast / ghastling care setup",
+    "phase": "Recent content",
+    "output": "Happy ghast transport / ghastling growth",
+    "difficulty": "Easy",
+    "automation": "Utility build, not a renewable mob farm; hydration and growth need the relevant conditions",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+happy+ghast+automatic+setup+tutorial",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Building blocks (3–8 stacks)",
+      "Hoppers (8–32)",
+      "Chests (4–16)",
+      "Slabs/trapdoors (design-dependent)",
+      "Mob-specific materials and spawn-proofing (design-dependent)"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 82,
+    "name": "Golden dandelion baby-mob showcase",
+    "phase": "Recent content",
+    "output": "Baby mob display / breeding collection",
+    "difficulty": "Easy",
+    "automation": "Collection/showcase project, not a resource farm; golden dandelions stop baby mobs aging",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.1+golden+dandelion+baby+mob+farm",
+    "creator": "ianxofour / ilmango",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Test world / creative-mode prototype",
+      "New-content blocks/entities (verify availability)",
+      "Design-specific materials — not yet verified"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  },
+  {
+    "id": 83,
+    "name": "Spear-mob drop farm research",
+    "phase": "Recent content",
+    "output": "Drops from new hostile/neutral mobs where farmable",
+    "difficulty": "Experimental",
+    "automation": "Investigate current Java mob drops and spawning; do not assume each new mob has a useful automatic farm",
+    "tutorial": "https://www.youtube.com/results?search_query=Minecraft+Java+26.0+spear+mob+farm+nautilus+camel+husk+parched",
+    "creator": "Minecraft technical community — attribution needs checking",
+    "compatibility": "Java 26.3+ content where applicable; verify release availability and mechanics. Experimental entries are not confirmed farms.",
+    "materials": [
+      "Building blocks (2–4 stacks)",
+      "Hoppers (4–16)",
+      "Chests (2–8)",
+      "Redstone components (design-dependent)",
+      "Check tutorial description for exact quantities"
+    ],
+    "notes": "Research entry only: do not count as a verified farm until an automatic/AFK-compatible design is demonstrated.",
+    "kind": "research"
+  }
+]
